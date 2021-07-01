@@ -1,0 +1,31 @@
+#titulo{
+    color: white;
+    background-color: #8b4513;
+    text-align: center;
+}
+body{
+    background-color:plum;
+    justify-content: space-around;
+}
+ul{
+    justify-content: space-around;
+    display:flex;
+    list-style-type: none;
+}
+ul:hover {
+cursor: pointer;
+}
+a{
+    font-size: 30px;
+    color: white;
+}
+img{
+    width: 300px;
+    height: 175px;
+}
+#gif{
+    float: right;
+    justify-content: space-around;
+    width: 200px;
+}
+

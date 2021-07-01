@@ -1,0 +1,32 @@
+img{
+    width: 340px;
+    background-color: #8b4513;
+}
+#titulo{
+    color: white;
+    background-color: #8b4513;
+    text-align: center;
+}
+body{
+    background-color:plum;
+    justify-content: space-around;
+}
+
+ul:hover {
+cursor: pointer;
+}
+ul{
+    justify-content: space-around;
+    display:flex;
+    list-style-type: none;
+}
+h1{
+    font-size: 27px;
+}
+h2{
+    font-size: 25px;
+}
+a{
+    font-size: 30px;
+    color: white;
+}
